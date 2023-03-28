@@ -1,0 +1,11 @@
+.menu__item {
+    list-style: none;
+}
+
+.menu__item:last-child .menu__link {
+    margin: 0;
+}
+
+/* .menu__item:nth-child(1) .menu__link{ 
+    color: #000;
+}*/

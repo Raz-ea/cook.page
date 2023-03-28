@@ -1,0 +1,26 @@
+.header{
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem ;
+    padding-right: 2rem ;
+}
+
+/* Phone and small Tablets */
+@media screen and (min-width: 0px) {
+    .header{
+        justify-content: center;
+        padding: 0 1rem;
+
+    }
+}
+
+/* Tablets and small Computers */
+@media screen and (min-width: 768px){
+    .header{
+        justify-content: space-between;
+        padding: 0 5rem;
+    }
+}
+

@@ -1,0 +1,25 @@
+.socmed__image{
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    margin: 15px ;
+    width: 50px;
+    
+}
+
+.socmed__image-fb{
+    background-image: url('../../img/facebook.png');
+}
+
+.socmed__image-yt{
+    background-image: url('../../img/youtube.png');
+}
+
+.socmed__image-tw{
+    background-image: url('../../img/twitter.png');
+}
+
+.socmed__image-insta{
+    background-image: url('../../img/instagram.png');
+}
